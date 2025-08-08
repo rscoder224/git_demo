@@ -1,0 +1,93 @@
+MEAN STACK
+
+M : MongoDb (DataBase)
+E : ExpressJs (Backend)
+A : Angular (Frontend)
+N : NodeJs (Backend)
+
+Three Pillars 
+>> HTML (Hyper Text Markup Language)
+>> CSS  (Cascading Style Sheet)
+>> JS    (JavaSCript)
+
+MERN STACK
+
+MEAN , MERN and Java Full STACK
+
+Web Dev Team
+
+>> Building/Developer Team
+>> Testing/Team (Mannual and Automated Tester)
+>> Hosting Team (DevOps Team)
+>> Maintenance/ Support Team
+
+
+SDLC (Software Development Life Cycle)
+
+>> WaterFall Model
+>> Agile Model
+>> Spiral Model
+>> V Shaped Model
+>> Incemental Model
+>> RAD(Rapid Application Development)
+>> Iterative Model
+
+URL (Uniform Resouce Locator)
+https://education.Shaurya.edu/file
+
+https        : (hyper test transfer Protocol) Protocol
+education    : Sub-Domain
+Shaurya      : Domain
+com          : TLD (Top level Domain)
+file         : Path or Location
+
+
+Protocol --> Set Of Rules or Instructions 
+
+HTTP     : Hyper Text transfer Protocol
+HTTPS    : Hyper Text Transfer Protocol Secure
+UDP      : User Datagram Protocol
+TCP      : Transfer Control Protocol
+SMTP     : Simple Mail Transfer Protocol
+FTP      : File Transfer Protocol
+IP       : Internet Protocol
+
+
+      >>>> Client/Web Page -----------(UName & Password)----------------------> Instagram
+      >>>> SSL (Socket Secure Layer) Certifictaion
+
+      Server/Domain Name :
+      >> Unique Identifier
+      Eg: Google , Microsoft
+
+      Subdomain
+
+      https://www.meet.google.com/hdahshd/
+      https://www.maps.google.com/indidue90/
+      https://www.drive.google.com/56sd545f4d/
+      https://gemini.google.com/dgydgfgfgd/
+
+
+     TLD (Top Level Domain)
+
+     >> .in (india) 
+     >> .com (Commercial)
+     >> .uk  (United Kingdom)
+     >> .org (Organization)
+
+     Offline Editor
+     
+     >> Sublime
+     >> Open Bracket
+     >> VSCode
+
+     Online Editor
+
+     >> CodeSpace
+     >> CodeSandbox
+
+
+
+
+
+
