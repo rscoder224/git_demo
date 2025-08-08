@@ -1,0 +1,35 @@
+
+Git >> Version Control
+
+>> It is Distributed (on Cloud)
+>> Collabration
+>> Tracking
+>> Recovery
+
+
+Github 
+BigBucket
+Gitlab
+GitPod
+
+              <=====================  This is for the first Time to link github Profile   ========================>
+
+git config --global user.name "rscoder224"
+git config --global user.email "ltsmartofficial@gmail.com"
+
+
+             <================================  Modatory Commands =================================>
+         
+       >>  git init
+       >>  git remote add origin "git repo url "
+       >>  git pull origin main 
+       >>  git status (used to check status)
+       >>  git add filename
+       >>  git add . (it is used to add all files)
+       >>  git commit m "commit massage"
+       >>  git push
+       >>  git push --set-upstream origin main
+       <<<<<<<======================================  For seprating Branch ==============================>>> 
+       >>  git checkout -b "branchname"
+
+
