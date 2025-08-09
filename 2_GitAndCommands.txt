@@ -26,10 +26,11 @@ git config --global user.email "ltsmartofficial@gmail.com"
        >>  git status (used to check status)
        >>  git add filename
        >>  git add . (it is used to add all files)
-       >>  git commit m "commit massage"
+       >>  git commit -m "commit massage"
        >>  git push
        >>  git push --set-upstream origin main
        <<<<<<<======================================  For seprating Branch ==============================>>> 
        >>  git checkout -b "branchname"
+
 
 
